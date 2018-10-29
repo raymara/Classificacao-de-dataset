@@ -1,0 +1,2 @@
+# Classificacao-de-dataset
+Descrição: O dataset escolhido foi o de diagnosticar pacientes que apresentam câncer de mama, neste dataset cada instância representa detalhes médicos dos pacientes, os preditores são dados e parâmetros antropométricos que podem ser coletados na análise de sangue de rotina, existem 10 preditores, todos quantitativos, e uma variável binária, indicando a presença ou ausência de câncer de mama (1 para “controles saudáveis ” e 2 para “pacientes”).
